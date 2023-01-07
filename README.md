@@ -6,10 +6,12 @@
 make html file
 
 In head section
+see gide text file
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 
 
 In body section
+see gide text file
 <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
 
 To figure out variouse feature of webrtc, follow the github link from google webrtc.
